@@ -25,9 +25,12 @@
 
  ## Importanto o Layout de dentro dos Components  para o `app.tsx`
  
- ![Screenshot_22](https://user-images.githubusercontent.com/78617974/119282500-464ecc80-bc10-11eb-903e-0078944681a9.jpg)
+ <img src="https://user-images.githubusercontent.com/78617974/119282500-464ecc80-bc10-11eb-903e-0078944681a9.jpg" width="300" height="300" />
  ### Criando um  Arquivo dentro da pasta de `styles` um arquivo chamado `Icons.ts` e exportando os seguintes itens:
  
- ![Screenshot_23](https://user-images.githubusercontent.com/78617974/119282588-9037b280-bc10-11eb-83c6-bceb32e8d2a2.jpg)
-
-## CheckPoint (33:00)
+ <img src="https://user-images.githubusercontent.com/78617974/119282588-9037b280-bc10-11eb-83c6-bceb32e8d2a2.jpg" width="450" height="350" />
+ 
+* Importei dentro do `styles.ts`da pasta main a `ArrowLeft` que estava dentro do `Icons.ts`.
+* Importanto o `{ css }` de dentro do `styled-components`, isso servira para criar somente uma estilização para todos os Icons.
+* Estilizando o BottomMenu, Menuzinho que ficara escondido em desktop e ira aparecer em Mobile
+* 
