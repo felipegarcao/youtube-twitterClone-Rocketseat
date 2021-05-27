@@ -33,4 +33,7 @@
 * Importei dentro do `styles.ts`da pasta main a `ArrowLeft` que estava dentro do `Icons.ts`.
 * Importanto o `{ css }` de dentro do `styled-components`, isso servira para criar somente uma estilização para todos os Icons.
 * Estilizando o BottomMenu, Menuzinho que ficara escondido em desktop e ira aparecer em Mobile
+* Fazendo as Importação dos Atributos dos  Icones e tags
+* Estilizando os componentes de `Container, banner, Avatar, ProfileData, LocationIcon, CakeIcon, Followage`.
 * 
+
