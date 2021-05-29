@@ -28,6 +28,8 @@
  <img src="https://user-images.githubusercontent.com/78617974/119282500-464ecc80-bc10-11eb-903e-0078944681a9.jpg" width="300" height="300" />
  ### Criando um  Arquivo dentro da pasta de `styles` um arquivo chamado `Icons.ts` e exportando os seguintes itens:
  
+
+
  <img src="https://user-images.githubusercontent.com/78617974/119282588-9037b280-bc10-11eb-83c6-bceb32e8d2a2.jpg" width="450" height="350" />
  
 * Importei dentro do `styles.ts`da pasta main a `ArrowLeft` que estava dentro do `Icons.ts`.
@@ -36,5 +38,17 @@
 * Fazendo as Importação dos Atributos dos  Icones e tags
 * Estilizando os componentes de `Container, banner, Avatar, ProfileData, LocationIcon, CakeIcon, Followage`.
 
-# CheckPoint (58:10)
+### Criando Componente `Button` 🔘
+
+* Estilizando o Button (`index.tsx`)
+
+ <img src="https://user-images.githubusercontent.com/78617974/120069156-ce8f0080-c05a-11eb-9d41-00c0ee77bb79.jpg" width="450" height="350" />
+ 
+ * Exportanto o `EditButton`, para fazer o botão de `Editar Perfil` e logo em seguida aplicando estilização no mesmo, dentro de `styles.ts`da pasta `ProfilePage`.
+ 
+ ## Criando o Componente `Feed`
+ 
+ * o Feed é o pagina principal da postagens, memes.....
+
+## ChechPoint (1:08:21)
 
