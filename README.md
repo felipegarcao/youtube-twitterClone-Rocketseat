@@ -49,6 +49,14 @@
  ## Criando o Componente `Feed`
  
  * o Feed é o pagina principal da postagens, memes.....
+* Criando a Area de Tweets, e seus Estilos.
+* Criando o Componente de `Tweet` com `index.tsx, styles.ts`.
+* Criando o "Esqueleto da Pagina de Tweets" e criando a parte para Estilizar.
+<br>
+<img src="https://user-images.githubusercontent.com/78617974/120231047-f29f3d00-c226-11eb-9c75-1649c4ed16fd.jpg" width="450" heigth"350" />
 
-## ChechPoint (1:08:21)
+## Criando o Component de RocketSeat Para Usar o Icon
+* Copiando https://pastebin.com/CMG0PMZ8 e colando dentro do arquivo `index.tsx` da pasta da RocketSeat
+
+
 
