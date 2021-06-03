@@ -49,6 +49,45 @@
  ## Criando o Componente `Feed`
  
  * o Feed é o pagina principal da postagens, memes.....
+* Criando a Area de Tweets, e seus Estilos.
+* Criando o Componente de `Tweet` com `index.tsx, styles.ts`.
+* Criando o "Esqueleto da Pagina de Tweets" e criando a parte para Estilizar.
+<br>
+<img src="https://user-images.githubusercontent.com/78617974/120231047-f29f3d00-c226-11eb-9c75-1649c4ed16fd.jpg" width="450" heigth"350" />
 
-## ChechPoint (1:08:21)
+## Criando o Component de RocketSeat Para Usar o Icon
+
+* Copiando https://pastebin.com/CMG0PMZ8 e colando dentro do arquivo `index.tsx` da pasta da RocketSeat
+* Completando a Estilização da Parte de Tweets (`styles.ts`) dentro da pasta Do Componente dee Tweet
+
+### Proxima Passo Vai ser A  Criação do Componente `MenuBar`.
+
+* Montando seu "Esqueleto" e Estilizando
+<br>
+<img src="https://user-images.githubusercontent.com/78617974/120558612-1e145a00-c3d6-11eb-86af-480d3f1f4415.jpg" width="450" height"350" />
+
+* Logo em Seguida, Foi Criado mais os seguintes componentes, dentro do "Esqueleto" OBS: Debaixo do `</Topside>` : 
+<br/>
+<img src="https://user-images.githubusercontent.com/78617974/120562209-528b1480-c3dc-11eb-83bf-72c5ef34dcfd.jpg" width="180" height="140" />
+<br/>
+
+## Apos Ter Finalizado o `MenuBar`, ou seja, meu menu da Esquerda, vamos iniciar o Menu da Direita que é o `SideBar`.
+<hr>
+
+
+## Logo Feita o "Esqueleto" do `index.tsx` e a estilização no `styles.ts`, Criaremos outro Componente Chamado `List`. - Adicionado ao `SideBar`
+
+<img src="https://user-images.githubusercontent.com/78617974/120580259-3d73ad00-c3ff-11eb-9f8f-45be01fb2f46.jpg" width="700" height="400" />
+<br/>
+
+## Criando Mais um Componente para o Projeto Chamado  `FollowSuggestion`. - Adicionado ao `SideBar`
+- Parte do Corpo do Componente (`index.tsx`) / Parte da Estilização do Componente (`styles.ts`)
+<img src="https://user-images.githubusercontent.com/78617974/120583058-e6240b80-c403-11eb-8a57-e0cf6cad483a.jpg" width="770" height="540" />
+
+## Criando o Ultimo Componente do Projeto Twitter Clone, Chamado `News`. - Adicionado ao `SideBar`
+- Parte do Corpo do Componente (`index.tsx`) / Parte da Estilização do Componente (`styles.ts`)
+<img src="https://user-images.githubusercontent.com/78617974/120583386-811ce580-c404-11eb-8c00-306a2fb0fa21.jpg" witdh="920" height="300" />
+
+## Projeto Finalizado !, Muito Obrigado RocketSeat 💚💜
+💜
 
