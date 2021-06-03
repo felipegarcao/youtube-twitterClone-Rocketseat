@@ -89,5 +89,4 @@
 <img src="https://user-images.githubusercontent.com/78617974/120583386-811ce580-c404-11eb-8c00-306a2fb0fa21.jpg" witdh="920" height="300" />
 
 ## Projeto Finalizado !, Muito Obrigado RocketSeat 💚💜
-💜
 
